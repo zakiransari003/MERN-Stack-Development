@@ -1,0 +1,16 @@
+{
+  "name": "js_",
+  "version": "1.0.0",
+  "description": "ffdfdfshdh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
